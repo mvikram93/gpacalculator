@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\1b246d99071d415e365d97aba1754328eef70a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_d09c7e5976c9bf1c67e57e6d91f56f02033b0fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\671a4163bb9c6581df428ad92896d2120cf4eb99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_25995508d1dca3d655f4b80c016ff890434b74a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\671a4163bb9c6581df428ad92896d2120cf4eb99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_25995508d1dca3d655f4b80c016ff890434b74a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\6290f32cc062fc518bc0ff445e082703e3a1e9e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_5e9e6966a31c4d211e73f6084e85d3739aac11cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\1b246d99071d415e365d97aba1754328eef70a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_d09c7e5976c9bf1c67e57e6d91f56f02033b0fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\295e01f5a3d1fc24e7f3eced3c5289c3bc1b097d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_b9a6b36e6145ce31caf41bd69bf1d881d1a6cb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\eb652c30c45b21fa70bd1a2af99630ec8eb22a65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_8e49d3c0de8318f96f6a8b9357c138857133acc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\53985634a466ae91d484f7d2ea33c93afb0f2345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_a29bcfed4f21a02ff7dd60102baa3de953f022d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\8b7e25f08ea418b41597720d1f104bfdfc9521a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_836499f2a853d48dc683f50b92e7d1fa2c3d30a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\9011c7de242fc704578ed4e27ec0143289ee2af4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_fab5b24ebaca6c0e4e751082d0477de530c0d89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\53985634a466ae91d484f7d2ea33c93afb0f2345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_a29bcfed4f21a02ff7dd60102baa3de953f022d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\bd0faee188332bdbb47065879b3b5f35e0110cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_49d1eab1750459be77d2a0a19935ce91df0cf4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\eb652c30c45b21fa70bd1a2af99630ec8eb22a65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_8e49d3c0de8318f96f6a8b9357c138857133acc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\4c56e7fee3af532ec4fc3a673ea7ca610f91d568\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_e25d51f81e923e44325956dba1cc9f1cc815188c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\e3143fbbf31e6483789b00560d40a8fea03d6adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_257f56a56688c72e3c14339a8cbdbb7b1cdde97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8f030d29da1fc94befa06ab839ca7cef3ae4b28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\295e01f5a3d1fc24e7f3eced3c5289c3bc1b097d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_b9a6b36e6145ce31caf41bd69bf1d881d1a6cb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\bd0faee188332bdbb47065879b3b5f35e0110cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_49d1eab1750459be77d2a0a19935ce91df0cf4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\6290f32cc062fc518bc0ff445e082703e3a1e9e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_5e9e6966a31c4d211e73f6084e85d3739aac11cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\8b7e25f08ea418b41597720d1f104bfdfc9521a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_836499f2a853d48dc683f50b92e7d1fa2c3d30a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8f030d29da1fc94befa06ab839ca7cef3ae4b28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\9011c7de242fc704578ed4e27ec0143289ee2af4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_fab5b24ebaca6c0e4e751082d0477de530c0d89c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\e3143fbbf31e6483789b00560d40a8fea03d6adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_257f56a56688c72e3c14339a8cbdbb7b1cdde97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\4c56e7fee3af532ec4fc3a673ea7ca610f91d568\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_e25d51f81e923e44325956dba1cc9f1cc815188c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\97b879b250e745f6e63cb9b7ba1b8ba6014b03e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_86994727bb3a35565ccb29f03bcafa0efc38a42c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\rahul\.android\build-cache\97b879b250e745f6e63cb9b7ba1b8ba6014b03e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\rahul\AndroidStudioProjects\newvikramapp\app\app\build\intermediates\pre-dexed\debug\classes_86994727bb3a35565ccb29f03bcafa0efc38a42c.jar" />
+    </item>
+
+</items>

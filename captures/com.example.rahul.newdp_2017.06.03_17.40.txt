@@ -1,0 +1,33 @@
+Applications Memory Usage (kB):
+Uptime: 7682034 Realtime: 116192228
+
+** MEMINFO in pid 31465 [com.example.rahul.newdp] **
+                         Shared  Private     Heap     Heap     Heap
+                   Pss    Dirty    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------
+       Native       28       12       28     4660     4520       67
+       Dalvik    54577    13060    54288    61767    61092      675
+       Cursor        0        0        0                           
+       Ashmem        0        0        0                           
+    Other dev      754       36        0                           
+     .so mmap      832     2196      464                           
+    .jar mmap        0        0        0                           
+    .apk mmap      157        0        0                           
+    .ttf mmap       89        0        0                           
+    .dex mmap     1844        0       44                           
+   Other mmap      908      308       36                           
+      Unknown     2623      632     2612                           
+        TOTAL    61812    16244    57472    66427    65612      742
+ 
+ Objects
+               Views:      172         ViewRootImpl:        4
+         AppContexts:        3           Activities:        2
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       21
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
